@@ -42,6 +42,8 @@ In order to create the environment, follow the steps listed below:
   5. Select **Python 3.7** as version
   6. Click create
 
+![alt text](CreateEnv.png "Create Environment")
+
 After those steps, we need to install the packages that we need. In order to do that follow again this steps:
 
   1. Select _Envirements_
@@ -52,6 +54,8 @@ After those steps, we need to install the packages that we need. In order to do 
     * Tensorflow
     * Scikit-learn
   5. Click _Apply_
+
+![alt text](Packages.png "Packages Selection")
 
 **Note**: The installation could take some time.
 
