@@ -42,7 +42,7 @@ In order to create the environment, follow the steps listed below:
   5. Select **Python 3.7** as version
   6. Click create
 
-![alt text](CreateEnv.png "Create Environment")
+![alt text](./images/CreateEnv.png "Create Environment")
 
 After those steps, we need to install the packages that we need. In order to do that follow again this steps:
 
@@ -55,7 +55,7 @@ After those steps, we need to install the packages that we need. In order to do 
     * Scikit-learn
   5. Click _Apply_
 
-![alt text](Packages.png "Packages Selection")
+![alt text](./images/Packages.png "Packages Selection")
 
 **Note**: The installation could take some time.
 
@@ -123,7 +123,7 @@ The command to clone a repository is `git clone ....`, where _...._ must be repl
 
 You can find the pointer from the green button _Code_ in the GitHub page. Select _Https_ ad copy the link.
 
-![alt text](CloneRepo.png "Clone Button")
+![alt text](./images/CloneRepo.png "Clone Button")
 
 For example, order to clone the `Cattolica_2020_Lesson1` repository with all its files execute
 
